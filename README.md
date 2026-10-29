@@ -53,4 +53,6 @@ The findings are descriptive and based on historical data. Customer segments ref
 
 ## Author
 
-Data Analytics Portfolio Project
+**Luis José De La Hoz Santiago**  
+Data Analytics | Business Intelligence | Data Science
+
