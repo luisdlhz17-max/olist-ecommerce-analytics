@@ -32,6 +32,30 @@ Key topics:
 
 **Tools:** Python, Pandas, Matplotlib, Scikit-learn.
 
+### 3. E-commerce Delivery Performance Analysis
+
+**Notebook:** `03_Olist_Delivery_Performance_Analysis.ipynb`
+
+**Objective:** Analyze historical delivery performance in the Brazilian E-Commerce dataset to identify patterns associated with late deliveries and operational improvement opportunities.
+
+**Key topics:**
+- Data quality assessment and timestamp validation.
+- Delivery performance KPIs, including late-delivery rate and average delivery time.
+- Monthly delivery performance trends.
+- Fulfillment stage duration analysis.
+- Geographic comparison of delivery performance across Brazilian states.
+- Business findings, operational implications, and recommendations.
+
+**Tools:** Python, Pandas, Matplotlib.
+
+**Key findings:**
+- 8.11% of analyzed delivered orders arrived after the estimated delivery date.
+- March 2018 recorded a 21.36% late-delivery rate.
+- Late orders had substantially longer average carrier-to-customer durations than on-time or early orders.
+- Delivery performance varied across customer states, with different priorities emerging from late-delivery rates and absolute late-order volumes.
+
+**Note:** Findings are descriptive and do not establish causation. Timestamp inconsistencies and extreme durations are documented as data-quality limitations.
+
 ## Dataset
 
 The analysis uses the Brazilian E-Commerce Public Dataset by Olist, available on Kaggle:
